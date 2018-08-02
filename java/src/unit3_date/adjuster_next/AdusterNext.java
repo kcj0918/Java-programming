@@ -1,4 +1,4 @@
-package unit3_date.AdjusterNext;
+package unit3_date.adjuster_next;
 
 import java.time.LocalDate;
 import java.time.temporal.TemporalAdjuster;
